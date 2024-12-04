@@ -4,8 +4,8 @@ Este projeto implementa uma calculadora que simula operações aritméticas bás
 
 ## Funcionalidades
 
-1. **Soma**: Realiza a soma de dois números utilizando soma recursiva.
-2. **Subtração**: Realiza a subtração de dois números utilizando subtração recursiva.
+1. **Soma**: Realiza a soma de dois números utilizando soma .
+2. **Subtração**: Realiza a subtração de dois números utilizando subtração .
 3. **Multiplicação**: Implementa a multiplicação por soma sucessiva recursiva.
 4. **Divisão**: Realiza a divisão utilizando subtração recursiva, retornando o quociente e o resto.
 5. **Exponenciação**: Calcula a exponenciação por repetidas multiplicações utilizando soma recursiva.
