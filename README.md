@@ -1,3 +1,7 @@
+# Calculadora Recursiva com Operações Aritméticas Básicas
+
+Este projeto implementa uma calculadora que simula operações aritméticas básicas (soma, subtração, multiplicação, divisão, exponenciação, fatorial e Fibonacci) utilizando apenas operações de soma e subtração recursivas. A solução evita o uso de operações aritméticas tradicionais como multiplicação e divisão, substituindo-as por chamadas recursivas de soma e subtração.
+
 ## Funcionalidades
 
 1. **Soma**: Realiza a soma de dois números utilizando soma recursiva.
